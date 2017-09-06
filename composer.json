@@ -1,0 +1,20 @@
+{
+  "name": "mrdink/env-bar",
+  "description": "Display a colored bar to help distinguish between different environments.",
+  "type": "wordpress-plugin",
+  "homepage": "https://wordpress.org/plugins/env-bar/",
+  "authors": [
+    {
+      "name": "Justin Peacock",
+      "email": "hello@byjust.in",
+      "homepage": "https://byjust.in"
+    }
+  ],
+  "require-dev": {
+    "wp-coding-standards/wpcs": "dev-develop"
+  },
+  "scripts": {
+    "post-install-cmd": "\"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs",
+    "post-update-cmd" : "\"vendor/bin/phpcs\" --config-set installed_paths vendor/wp-coding-standards/wpcs"
+  }
+}

@@ -1,0 +1,61 @@
+# Copyright (C) 2017 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/env-bar\n"
+"POT-Creation-Date: 2017-09-06 00:43:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: hello@byjust.in\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: dist/env-bar/env-bar.php:43 dist/env-bar/env-bar.php:77 env-bar.php:43
+#: env-bar.php:77
+msgid "Env Bar"
+msgstr ""
+
+#: dist/env-bar/env-bar.php:44 dist/env-bar/env-bar.php:65
+#: dist/env-bar/env-bar.php:78 dist/env-bar/env-bar.php:99
+#: dist/env-bar/env-bar.php:249 env-bar.php:44 env-bar.php:65 env-bar.php:78
+#: env-bar.php:99 env-bar.php:249
+msgid "Environment"
+msgstr ""
+
+#: dist/env-bar/env-bar.php:115 dist/env-bar/env-bar.php:226 env-bar.php:115
+#: env-bar.php:226
+msgid "Development"
+msgstr ""
+
+#: dist/env-bar/env-bar.php:116 dist/env-bar/env-bar.php:229 env-bar.php:116
+#: env-bar.php:229
+msgid "Staging"
+msgstr ""
+
+#: dist/env-bar/env-bar.php:117 dist/env-bar/env-bar.php:232 env-bar.php:117
+#: env-bar.php:232
+msgid "Production"
+msgstr ""
+
+#: dist/env-bar/env-bar.php:133 env-bar.php:133
+msgid "Options saved."
+msgstr ""
+
+#: dist/env-bar/env-bar.php:137 dist/env-bar/env-bar.php:157 env-bar.php:137
+#: env-bar.php:157
+msgid "Env Bar Settings"
+msgstr ""

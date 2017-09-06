@@ -1,0 +1,25 @@
+{
+	"name": "env-bar",
+	"title": "Env Bar",
+	"description": "Display a colored bar to help distinguish between different environments.",
+	"version": "0.2.1",
+	"homepage": "https://wordpress.org/plugin/env-bar",
+	"author": {
+		"name": "Justin Peacock",
+		"email": "hello@byjust.in",
+		"url": "https://byjust.in"
+	},
+	"dependencies": {
+		"load-grunt-config": "latest",
+		"load-grunt-tasks": "latest",
+		"time-grunt": "latest"
+	},
+	"devDependencies": {
+		"grunt": "latest",
+		"grunt-contrib-clean": "latest",
+		"grunt-contrib-copy": "latest",
+		"grunt-image": "latest",
+		"grunt-wp-i18n": "latest",
+		"grunt-phpcs": "latest"
+	}
+}
